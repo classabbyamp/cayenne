@@ -1,0 +1,11 @@
+[package]
+name = "cayenne"
+description = "an implementation of the SPICE circuit simulation program in Rust"
+version = "0.1.0"
+edition = "2021"
+
+repository = "https://github.com/classabbyamp/cayenne"
+authors = ["classabbyamp <dev@kb6.ee"]
+license = "BSD-3-Clause"
+
+[dependencies]
